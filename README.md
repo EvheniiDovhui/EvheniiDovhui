@@ -1,10 +1,7 @@
 ## 👤 Contact information
 
-* 📞 +38 050 241 53 48
-* ✉️ [edovguy97@gmail.com](mailto:edovguy97@gmail.com)
 * 📨 [Telegram](https://t.me/CanyonEvg)
 * 💼 [LinkedIn](https://www.linkedin.com/in/evheniidovhui)
-* 🐙 [GitHub](https://github.com/EvheniiDovhui)
 * 📍 Ternopil, Ukraine
 
 ---
