@@ -1,7 +1,3 @@
-# Evhenii DOVHUI
-
-## Hi there 👋
-
 ---
 
 ## 👤 Contact information
