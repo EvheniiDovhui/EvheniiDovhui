@@ -1,5 +1,3 @@
----
-
 ## 👤 Contact information
 
 * 📞 +38 050 241 53 48
